@@ -1,0 +1,13 @@
+/bin
+/build
+
+/.idea
+/.settings
+
+*.ipr
+*.iws
+*.iml
+*.class
+
+*.orig
+*~
