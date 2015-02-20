@@ -17,7 +17,6 @@ public class Hauptmenue extends Szene
 	@Override
 	public void touchReagieren(float x, float y, TouchEvent event) 
 	{
-		
 		if(event == TouchEvent.Losgelassen)
 		{
 			activity.setzeSzene(activity.game());
