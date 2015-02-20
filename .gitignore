@@ -1,6 +1,5 @@
 /bin
 /build
-/gen/ea/beispiel
 
 /.idea
 /.settings
@@ -12,3 +11,4 @@
 
 *.orig
 *~
+/gen
